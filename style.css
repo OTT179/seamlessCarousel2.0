@@ -1,0 +1,10 @@
+.container{ margin: 100px auto;width:300px;text-align:center}
+#window {
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+#wrapper {
+    transition: all .4s;
+    display: flex;
+}
